@@ -6,7 +6,7 @@
 
 <h2>Me chamo Fernando Marino, sou desenvolvedor Front-end e apaixonado por tecnologia!</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fermarino&hide_progress=true)](https://github.com/fermarino/github-readme-stats)
 
 <div style="display: inline">
   <img align="center" alt="JS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
