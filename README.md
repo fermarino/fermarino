@@ -4,7 +4,7 @@
 
 ##
 
-<h2>Me chamo Fernando Marino, sou desenvolvedor Front-end e apaixonado por tecnologia!</h2>
+<h2></h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fermarino&hide_progress=true)](https://github.com/fermarino/github-readme-stats)
 
