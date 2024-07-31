@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fernando Marino</h1>
+<h1 align="left">Hi 👋, I'm Fernando Marino</h1>
 <h4 align="left">I’m passionate about software development with expertise in Java, Angular, Selenium, Cypress, Postman, Jenkins, PostgreSQL. My experience spans software development as well as both automated and manual testing, where I am committed to delivering high-quality results. Driven by a love for technology, I’m always eager to refine my skills and explore new tools to tackle complex challenges.</h4>
 
 - 🌱 I’m currently learning **backend development with Java and Spring Boot, as well as automated testing with Java and Selenium.**
@@ -18,4 +18,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fermarino&show_icons=true&locale=en" alt="fermarino" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fermarino&" alt="fermarino" /></p>
