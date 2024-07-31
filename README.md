@@ -1,16 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fernando Marino</h1>
-<h3 align="center">I’m passionate about software development with expertise in Java, Angular, Selenium, Cypress, Postman, Jenkins, PostgreSQL. My experience spans software development as well as both automated and manual testing, where I am committed to delivering high-quality results. Driven by a love for technology, I’m always eager to refine my skills and explore new tools to tackle complex challenges.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fermarino&label=Profile%20views&color=0e75b6&style=flat" alt="fermarino" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fermarino" alt="fermarino" /></a> </p>
+<h4 align="left">I’m passionate about software development with expertise in Java, Angular, Selenium, Cypress, Postman, Jenkins, PostgreSQL. My experience spans software development as well as both automated and manual testing, where I am committed to delivering high-quality results. Driven by a love for technology, I’m always eager to refine my skills and explore new tools to tackle complex challenges.</h4>
 
 - 🌱 I’m currently learning **backend development with Java and Spring Boot, as well as automated testing with Java and Selenium.**
-
 - 👨‍💻 All of my projects are available at [github.com/fermarino](github.com/fermarino)
-
-- 📫 How to reach me **linkedin.com/in/ferrmarino/**
-
+- 📫 How to reach me: [Linkedin](linkedin.com/in/ferrmarino/)
 - ⚡ Fun fact **I had my first contact with programming at the age of 9 by creating a game with C# and Unity 3D, which sparked my passion for coding.**
 
 <h3 align="left">Connect with me:</h3>
