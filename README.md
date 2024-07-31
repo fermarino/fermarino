@@ -1,27 +1,28 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008DD9&height=120&section=header"/>
+<h1 align="center">Hi 👋, I'm Fernando Marino</h1>
+<h3 align="center">I’m passionate about software development with expertise in Java, Angular, Selenium, Cypress, Postman, Jenkins, PostgreSQL. My experience spans software development as well as both automated and manual testing, where I am committed to delivering high-quality results. Driven by a love for technology, I’m always eager to refine my skills and explore new tools to tackle complex challenges.</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008DD9&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+Bem+-+Vindo+ao+meu+Github!)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fermarino&label=Profile%20views&color=0e75b6&style=flat" alt="fermarino" /> </p>
 
-##
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fermarino" alt="fermarino" /></a> </p>
 
-<h2></h2>
+- 🌱 I’m currently learning **backend development with Java and Spring Boot, as well as automated testing with Java and Selenium.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fermarino&hide_progress=true)](https://github.com/fermarino/github-readme-stats)
+- 👨‍💻 All of my projects are available at [github.com/fermarino](github.com/fermarino)
 
-<div style="display: inline">
-  <img align="center" alt="JS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+- 📫 How to reach me **linkedin.com/in/ferrmarino/**
 
+- ⚡ Fun fact **I had my first contact with programming at the age of 9 by creating a game with C# and Unity 3D, which sparked my passion for coding.**
 
-##
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ferrmarino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferrmarino" height="30" width="40" /></a>
+</p>
 
-<div> 
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:fnandomarino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ferrmarino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fermarino&show_icons=true&locale=en&layout=compact" alt="fermarino" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fermarino&show_icons=true&locale=en" alt="fermarino" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fermarino&" alt="fermarino" /></p>
