@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Marino</h1>
-<h3 align="center">Software Developer | QA</h3>
+<h3 align="center">Software Developer | QA Specialist</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -12,35 +12,56 @@
 </p>
 
 <p align="center">
-  I'm a software developer working with Java and Python, with hands-on experience in QA using Selenium and Cypress. I focus on building robust solutions and ensuring top-notch quality through effective testing.
+  I'm a software developer with expertise in Java and Python, and hands-on experience in QA with Selenium and Cypress. I focus on crafting robust solutions and ensuring high quality through effective testing.
 </p>
 
-<h3>Currently Learning:</h3>
-<p>
-  🌱 **Backend development with Java and Spring Boot**<br>
-  🌱 **Front-end development with Vue.js**<br>
-  🌱 **Automated testing techniques and tools**
+<h3 align="center">Currently Learning:</h3>
+<p align="center">
+  🌱 **Backend Development:** Java & Spring Boot<br>
+  🌱 **Front-End Development:** Vue.js<br>
+  🌱 **Automated Testing:** Advanced techniques and tools
 </p>
 
-<p>
-  📚 Explore my projects on [GitHub](https://github.com/fermarino)<br>
-  📫 Connect with me on [LinkedIn](https://linkedin.com/in/ferrmarino/)
+<h3 align="center">Connect with Me:</h3>
+<p align="center">
+  📚 Check out my work on [GitHub](https://github.com/fermarino)<br>
+  📫 Let's connect on [LinkedIn](https://linkedin.com/in/ferrmarino/)
 </p>
 
-<h3>Fun Fact:</h3>
-<p>
-  ⚡ **I started programming at age 9 by creating a game with C# and Unity 3D, which ignited my passion for coding.**
+<h3 align="center">Fun Fact:</h3>
+<p align="center">
+  ⚡ **I began coding at age 9 with a C# and Unity 3D game, sparking my lifelong passion for programming.**
 </p>
 
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://linkedin.com/in/ferrmarino" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferrmarino" height="30" width="40" />
+<h3 align="center">My GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fermarino&show_icons=true&locale=en" alt="Fernando Marino's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fermarino&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<h3 align="center">Tech Stack:</h3>
+<p align="center">
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="50" height="50"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   </a>
 </p>
 
-
+<h3 align="center">Profile Overview:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fermarino&show_icons=true&locale=en" alt="fermarino" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fermarino&show_icons=true&locale=en&layout=compact" alt="fermarino" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fermarino&theme=dark" alt="GitHub Streak Stats" />
 </p>
