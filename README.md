@@ -15,32 +15,32 @@
   I'm a software developer with expertise in Java and Python, and hands-on experience in QA with Selenium and Cypress. I focus on crafting robust solutions and ensuring high quality through effective testing.
 </p>
 
-<h3 align="center">Currently Learning:</h3>
-<p align="center">
-  🌱 **Backend Development:** Java & Spring Boot<br>
-  🌱 **Front-End Development:** Vue.js<br>
-  🌱 **Automated Testing:** Advanced techniques and tools
+<h3>Currently Learning:</h3>
+<ul>
+  <li>🌱 **Backend Development**: Java & Spring Boot</li>
+  <li>🌱 **Front-End Development**: Vue.js</li>
+  <li>🌱 **Automated Testing**: Advanced techniques and tools</li>
+</ul>
+
+<h3>Connect with Me:</h3>
+<p>
+  📚 Explore my work on <a href="https://github.com/fermarino">GitHub</a><br>
+  📫 Let's connect on <a href="https://linkedin.com/in/ferrmarino/">LinkedIn</a>
 </p>
 
-<h3 align="center">Connect with Me:</h3>
-<p align="center">
-  📚 Check out my work on [GitHub](https://github.com/fermarino)<br>
-  📫 Let's connect on [LinkedIn](https://linkedin.com/in/ferrmarino/)
+<h3>Fun Fact:</h3>
+<p>
+  ⚡ **I started programming at age 9 by creating a game with C# and Unity 3D, which ignited my passion for coding.**
 </p>
 
-<h3 align="center">Fun Fact:</h3>
-<p align="center">
-  ⚡ **I began coding at age 9 with a C# and Unity 3D game, sparking my lifelong passion for programming.**
+<h3>My GitHub Stats:</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fermarino&show_icons=true&locale=en" alt="Fernando Marino's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fermarino&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
-<h3 align="center">My GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fermarino&show_icons=true&locale=en" alt="Fernando Marino's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fermarino&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<h3 align="center">Tech Stack:</h3>
-<p align="center">
+<h3>Tech Stack:</h3>
+<p>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/>
   </a>
@@ -61,7 +61,7 @@
   </a>
 </p>
 
-<h3 align="center">Profile Overview:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fermarino&theme=dark" alt="GitHub Streak Stats" />
+<h3>Profile Overview:</h3>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fermarino&theme=dark" alt="GitHub Streak Stats"/>
 </p>
