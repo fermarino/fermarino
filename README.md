@@ -37,8 +37,3 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fermarino&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
-
-<h3>Profile Overview:</h3>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fermarino&theme=dark" alt="GitHub Streak Stats"/>
-</p>
