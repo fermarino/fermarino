@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I'm a software developer with expertise in Java and Python, and hands-on experience in QA with Selenium and Cypress. I focus on crafting robust solutions and ensuring high quality through effective testing.
+  I'm a software developer specializing in FullStack development and hands-on experience in QA using Selenium and Cypress. I’m dedicated to building robust solutions and ensuring top-notch quality through effective testing and continuous improvement.
 </p>
 
 <h3>Currently Learning:</h3>
