@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Marino</h1>
-<h3 align="center">Software Developer | QA Specialist</h3>
+<h3 align="center">Software Developer | QA Engineer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
