@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
+
 <p align="center">
   I'm a software developer specializing in FullStack development and hands-on experience in QA using Selenium and Cypress. I’m dedicated to building robust solutions and ensuring top-notch quality through effective testing and continuous improvement.
 </p>
