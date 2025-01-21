@@ -19,7 +19,7 @@ Hi! I'm a <strong>Data Engineer</strong> with a passion for building data pipeli
 
 <h3>Certifications:</h3>
 <ul>
-  <li>💻 <strong>AWS Certified Solutions Architect – Associate</strong></li>
+  <li>💻 <strong>AWS Certified Cloud Practitioner</strong></li>
   <li>💻 <strong>Microsoft Certified: Azure Fundamentals</strong></li>
   <li>💻 <strong>AWS Certified: AWS Data Engineer Associate</strong> (In Progress)</li>
 </ul>
