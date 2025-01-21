@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fernando Marino</h1>
+<h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">Data Engineer | Data Quality | QA Engineer</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-Hi! I'm a Data Engineer with a passion for building data pipelines and ensuring data is clean, reliable, and ready to deliver insights. Coming from a QA Engineering background, I’ve got an eye for detail and love ensuring data is clean and reliable. I’m all about using data to solve real problems and always learning new ways to level up my skills.
+Hi! I'm a **Data Engineer** with a passion for building data pipelines and ensuring data is clean, reliable, and ready to deliver insights. Coming from a **QA Engineering** background, I’ve got an eye for detail and love ensuring data is clean and reliable. I’m all about using data to solve real problems and always learning new ways to level up my skills.
 </p>
 
 <h3>Certifications:</h3>
