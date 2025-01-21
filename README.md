@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fernando Marino</h1>
+<h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">Data Engineer | Data Quality | QA Engineer</h3>
 
 <p align="center">
@@ -48,9 +48,4 @@ Hi! I'm a <strong>Data Engineer</strong> with a passion for building data pipeli
 <h3>Fun Fact:</h3>
 <p>
   ⚡ <strong>I started programming at age 9 by creating a game with C# and Unity 3D, which ignited my passion for coding.</strong>
-</p>
-
-<h3>My GitHub Stats:</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fermarino&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
